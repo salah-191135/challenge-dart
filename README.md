@@ -22,7 +22,7 @@ dart run bin/starter.dart
 
 starter/
   ├── lib/
-  │   └── stack.dart        # Stack implementation
+  │   └── stack.dart
   ├── bin/
-  │   └── starter.dart      # Main entry point
-  └── pubspec.yaml          # Dependency configuration
+  │   └── starter.dart
+  └── pubspec.yaml
