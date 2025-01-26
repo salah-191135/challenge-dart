@@ -18,11 +18,3 @@ dart pub get
 dart run bin/starter.dart
 ```
 
-### Project Structure
-
-starter/\
-  ├── lib/\
-  │   └── stack.dart\
-  ├── bin/\
-  │   └── starter.dart\
-  └── pubspec.yaml\
