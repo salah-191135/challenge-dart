@@ -1,6 +1,12 @@
 # Starter Project
 
-This is a simple command-line application written in Dart. The project includes a stack implementation and the two challenges related to stacks one is a part of the stack class and the other is a function to check if parentheses in a given expression are balanced.
+This is a simple command-line application written in Dart. The project includes both stack and linked list implementation and the challenges related to them.
+
+ challenge one for stack is a part of the stack class in "Stack.dart" and the other is a function in "starter.dart"
+
+ Challenge one for the linked list is a function in "starter.dart" and the rest are methods in the linkedlist class in "Node.dart"
+
+
 
 ## Prerequisites
 
@@ -17,4 +23,3 @@ dart pub get
 ```sh
 dart run bin/starter.dart
 ```
-
